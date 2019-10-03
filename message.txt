@@ -1,0 +1,19 @@
+
+Hello ${PERSON_NAME},
+ 
+We are so excited to have you join us at WPI on November 9th and December 7th for our annual Merit Badge University!
+ 
+You have been assigned to the following badges and rooms:
+
+	1. ${PERIOD_ONE}
+	2. ${PERIOD2}
+	3. ${PERIOD3}
+ 
+ 
+Please use this time in the coming weeks to complete any prerequisites your badge may have before the first day of MBU. As always, please reach out to mbu@wpi.edu with any questions.
+ 
+Prerequisites can be found here: https://users.wpi.edu/~apo/MBU/Prerequisites_MBU_2019.pdf
+ 
+Thank you,
+The MBU Committee
+
