@@ -1,0 +1,42 @@
+<html>
+<head></head>
+<body>
+
+<p>Hello MBU Parents and Scouts!</p>
+
+<p>The first day (November 9th) is fast approaching, and we are looking forward to having you all on campus.</p>
+
+<p>Please review the attached documents and <b>complete the minors on campus</b> form to be handed in on Saturday or emailed to us at <a href="mailto:gr-mbu@wpi.edu">gr-mbu@wpi.edu.</a></p>
+
+<p><b>Dress Code -</b> Class B, and try to bring a reusable water bottle</p>
+<p><b>Directions to Campus -</b> See attached</p>
+
+<p>Due to construction on campus, we will be doing drop off / pick up differently this year.</p>
+
+<p><b>Drop off Information</b></p>
+<ul>
+<li>Check in will be from 7:30-9:00 am at the Alden Traffic Circle</li>
+<li>Drive up West Street under Earl Bridge</li>
+<li>Receive the ticket with the name of your scout <b>(please keep hold of this ticket, it will be used for pick-up)</b></li>
+<li>Continue around the circle to Alden (We will have volunteers directing traffic)</li>
+<li>Scouts will check in at Alden and our volunteers will walk them over to Fuller Labs for opening information</li>
+</ul>
+
+<p>If you are <b>NOT</b> arriving before 9:15am, or are a scout driving yourself please email  <a href="mailto:gr-mbu@wpi.edu">gr-mbu@wpi.edu.</a></p>
+
+
+<p><b>Pick up Information</b></p>
+<ul>
+<li>Pick up will be from 4:10-5:00 pm in Fuller Labs (enter through Salisbury St.)</li>
+<li>Please be ready to show your ticket to the attendant</li>
+<li>Please do NOT come earlier than 4:10, be prepared to wait</li>
+</ul>
+
+<p>In the meantime, please be sure that your scout completes any relevant prerequisites and watch out for an email from the merit badge counselors.</p>
+
+<p>If you have any other questions or concerns, please reach out to us at <a href="mailto:gr-mbu@wpi.edu">gr-mbu@wpi.edu.</a></p>
+
+<p>Best,</p>
+<p>MBU Committee</p>
+</body>
+</html>

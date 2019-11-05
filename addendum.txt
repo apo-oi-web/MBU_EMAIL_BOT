@@ -1,0 +1,12 @@
+<html>
+<head></head>
+<body>
+<p>MBU Parents and Scouts!</p>
+<p>We forgot to mention in the last email that we will be providing cheese pizza for lunch and a salad for those with dietary restrictions.</p>
+<p>In addition, for those who require parking please park in the Gateway parking lot (12 Washburn Way - Worcester, MA 01609). If so, please print out the attached parking pass and place it visibly on your dashboard. Please note, that you must walk to the drop off location. </p>
+<p>Finally, please remember to fill out the minors on campus form.</p>
+
+<p>Best,</p>
+<p>~MBU Committee</p>
+</body>
+</html>

@@ -1,25 +1,30 @@
-Hello ${PERSON_NAME},
+Hello MBU Parents and Scouts!
 
-We have had problems with emails getting sent to spam this year, so we are sending this email to confirm that you are assigned the following badges:
+The first day (November 9th) is fast approaching, and we are looking forward to having you all on campus.
 
-	1. ${PERIOD1}   (9am-11am)
-	2. ${PERIOD2}   (12pm-2pm)
-	3. ${PERIOD3}   (2pm-4pm)
+Please review the attached documents and complete the minors on campus form to be handed in on Saturday
 
-You should have received an email saying that you were added to group alias for all badges you've been assigned. Make sure that the badges listed above are the same as the alias you were added to.
+Dress Code - Class B, and bring a reusable water bottle
+Directions to Campus - See attached
 
-YOU DO NOT HAVE TO DOWNLOAD ANYTHING. These aliases are meant for instructors to reach out to you, which they will in the upcoming days. Please DO NOT email the aliases unless it's something that the whole class needs to know.
+Due to construction on campus, we will be doing drop off/ pick up differently this year.
+Drop off Information
+Check in will be from 7:30-9:00 am at the Alden Traffic Circle
+Drive up West Street under Earl Bridge
+Receive the ticket with the name of your scout (please keep hold of this ticket, it will be used for pick-up)
+Continue around the circle to Alden (We will have volunteers directing traffic)
+ Scouts will check in at Alden and our volunteers will walk them over to Fuller Labs for opening information
 
-As always, please reach out to mbu@wpi.edu with any questions. We are excited to have you join us at WPI on November 9th and December 7th for our annual Merit Badge University!
-Remember that check-ins are from 8-9am on both days. Stay tuned for blue card, maps, parking and other day of info.
+If you are NOT arriving before 9:15, or are a scout driving yourself please email  gr-mbu@wpi.edu.
 
-If you are a troop leader or parent, please forward this information to your scout.
+Pick up Information
+ Pick up will be from 4:10-5:00 pm in Fuller Labs (enter through Salisbury St.)
+Please be ready to show your ticket to the attendant
+Please do NOT come earlier than 4:10, be prepared to wait
 
-Please use this time in the coming weeks to complete any prerequisites your badge may have before the first day of MBU.
-Prerequisites can be found here: https://users.wpi.edu/~apo/MBU/Prerequisites_MBU_2019.pdf
+In the meantime, please be sure that your scout completes any relevant prerequisites and watch out for an email from the merit badge counselors.
 
+If you have any other questions or concerns, please reach out to us at gr-mbu@wpi.edu.
 
-Thank you,
-The MBU Committee
-
-
+Best,
+MBU Committee
